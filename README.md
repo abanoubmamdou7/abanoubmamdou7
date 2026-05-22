@@ -72,19 +72,11 @@ I specialize in designing and shipping **full-stack web applications** — from 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abanoubmamdouhhanna&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubmamdouhhanna&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" height="165" />
+![Abanoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abanoubmamdouhhanna&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&rank_icon=github)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubmamdouhhanna&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=8)
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![EcommerceApp Backend](https://github-readme-stats.vercel.app/api/pin/?username=abanoubmamdouhhanna&repo=EcommerceApp-Backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/abanoubmamdouhhanna/EcommerceApp-Backend)
-[![DruggerApp Backend](https://github-readme-stats.vercel.app/api/pin/?username=abanoubmamdouhhanna&repo=DruggerApp-Backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/abanoubmamdouhhanna/DruggerApp-Backend)
+![GitHub Streak](https://streak-stats.demolab.com?user=abanoubmamdouhhanna&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&background=1c1917)
 
 </div>
 
