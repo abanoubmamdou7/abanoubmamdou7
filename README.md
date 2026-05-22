@@ -7,13 +7,13 @@
 **Full-Stack Developer · MERN Specialist · JavaScript Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abanoubmamdouh/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/abanoubmamdouhhanna)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abanoubmamdou7)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@abanoubmamdouh)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://www.dev.to/abanoubmamdouhhanna)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://www.stackoverflow.com/users/13398224/abanoub-mamdouh)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:abanoubmamdouhhanna@outlook.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:abanoubmamdouu7@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=abanoubmamdouhhanna&label=Profile%20Views&color=0891b2&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=abanoubmamdou7&label=Profile%20Views&color=0891b2&style=flat)
 
 </div>
 
@@ -28,7 +28,7 @@ I specialize in designing and shipping **full-stack web applications** — from 
 - 🔭 Currently building scalable back-end systems with **Node.js**, **NestJS**, and **MongoDB**
 - 🌱 Continuously exploring **TypeScript**, **GraphQL**, and **cloud-native** architectures
 - 💬 Ask me about **MERN stack**, **API design**, or **system architecture**
-- 📫 Reach me at **abanoubmamdouhhanna@outlook.com**
+- 📫 Reach me at **abanoubmamdouu7@gmail.com**
 
 ---
 
@@ -68,19 +68,7 @@ I specialize in designing and shipping **full-stack web applications** — from 
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Abanoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abanoubmamdouhhanna&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubmamdouhhanna&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abanoubmamdouhhanna&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&background=1c1917)
-
-</div>
-
----
 
 <div align="center">
 
